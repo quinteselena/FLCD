@@ -1,0 +1,4 @@
+let func check (integer a) returns integer
+{
+	return a;
+};
